@@ -7,7 +7,7 @@ The **MediTech System** is a machine learning-based application designed to pred
 ## Features
 
 - **Disease Prediction**: Uses trained machine learning models to predict potential diseases based on symptoms.
-- **Drug Recommendation**: Provides suggested medications based on diagnosed conditions.
+- **Drug Recommendation**: Provides suggested medications based on symptoms.
 - **User-Friendly Web Interface**: Allows users to input symptoms easily.
 - **Scalable and Extensible**: Can be expanded to include more diseases and medications.
 - **Lightweight Deployment**: Built using Flask for seamless hosting and accessibility.
